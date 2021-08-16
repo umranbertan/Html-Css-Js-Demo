@@ -1,0 +1,28 @@
+body {
+    background-image:url("https://static.zara.net/photos///contents/mkt/spots/ss21-worldwide/subhome-xmedia-02//w/1920/IMAGE-landscape-ab1449f0-f49e-475c-83cd-fe66f0eaa1ed-default_0.jpg?ts=1616231149906");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#baslik{
+    font-family: 'Style Script', cursive;
+   font-size: 90px;
+    color: white;
+
+}
+#search
+{
+   position: fixed;
+
+   top: 30px;
+   right: 60px;
+}
+.renk{
+    color: white;
+}
+
+
+footer{
+    position: fixed;
+    right: 60px;
+   
+}
